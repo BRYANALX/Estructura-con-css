@@ -1,0 +1,28 @@
+body {
+    background-color:mediumturquoise;
+}
+
+
+* {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*comentarios*/
+
+h1,h2,h3,h4,h5,h6 {
+    color: red;
+}
+
+p a /*es infinito no funciona con div*/ {
+   font-size: 30px;
+}
+
+p .yellow /*con id solo se puede agrgar una vez se puede con class o span*/{
+    color: rgb(59, 57, 151);
+}
+
+a[href="https://www.google.com/?hl=es_419"]{
+    color:green;
+    font-size:30px;
+}
+*/

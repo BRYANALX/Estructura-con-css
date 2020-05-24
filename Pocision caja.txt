@@ -1,0 +1,16 @@
+Posicionamiento de caja en css:
+ 
+selector {
+        position:absolute-relative-fixed-static;
+         top: ;
+         bottom: ;
+         rigth: ;
+         left: ;
+       }
+
+absolute = no es el mejor modo de hacerlo
+______________________________________________________________________________________________________
+
+float:top/bottom/rigth/left;
+
+se coloca igual que propiedad
